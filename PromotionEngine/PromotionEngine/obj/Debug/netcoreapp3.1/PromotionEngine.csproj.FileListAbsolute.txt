@@ -1,0 +1,15 @@
+C:\Users\Ei11819\Desktop\WebApplication49\ConversionNumtoWord\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.exe
+C:\Users\Ei11819\Desktop\WebApplication49\ConversionNumtoWord\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.deps.json
+C:\Users\Ei11819\Desktop\WebApplication49\ConversionNumtoWord\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.runtimeconfig.json
+C:\Users\Ei11819\Desktop\WebApplication49\ConversionNumtoWord\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.runtimeconfig.dev.json
+C:\Users\Ei11819\Desktop\WebApplication49\ConversionNumtoWord\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.dll
+C:\Users\Ei11819\Desktop\WebApplication49\ConversionNumtoWord\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.pdb
+C:\Users\Ei11819\Desktop\WebApplication49\ConversionNumtoWord\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.AssemblyInfoInputs.cache
+C:\Users\Ei11819\Desktop\WebApplication49\ConversionNumtoWord\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.AssemblyInfo.cs
+C:\Users\Ei11819\Desktop\WebApplication49\ConversionNumtoWord\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.dll
+C:\Users\Ei11819\Desktop\WebApplication49\ConversionNumtoWord\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.pdb
+C:\Users\Ei11819\Desktop\WebApplication49\ConversionNumtoWord\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.genruntimeconfig.cache
+C:\Users\Ei11819\Desktop\WebApplication49\ConversionNumtoWord\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ei11819\Desktop\WebApplication49\ConversionNumtoWord\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.csprojAssemblyReference.cache
+C:\Users\Ei11819\Desktop\WebApplication49\ConversionNumtoWord\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\Ei11819\Desktop\WebApplication49\ConversionNumtoWord\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.csproj.CopyComplete
